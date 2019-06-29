@@ -1,0 +1,17 @@
+.header {
+  background: #455678;
+  padding: 30px;
+}
+
+.NavLink {
+  color: #fff;
+  margin-left: 30px;
+  font-weight: 900;
+  font-family: 'Poppins';
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.activeLink {
+  color: #cc8432;
+}
